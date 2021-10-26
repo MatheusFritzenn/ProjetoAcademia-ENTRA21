@@ -1,0 +1,224 @@
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormLogin.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormMenu.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroModalidade.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteModalidade.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroCategoria.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProduto.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteCategoria.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProduto.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroUsuario.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProfessor.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroFormaPagamento.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteFormaPagamento.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteUsuario.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroAluno.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroCategoria.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroFormaPagamento.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroModalidade.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProduto.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProfessor.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroUsuario.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteAluno.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteCategoria.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteFormaPagamento.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteModalidade.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProduto.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteUsuario.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormLogin.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormMenu.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProfessor.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroCategoria.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroFormaPagamento.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroModalidade.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProduto.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProfessor.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroUsuario.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteCategoria.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteFormaPagamento.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteModalidade.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProduto.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProfessor.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteUsuario.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormLogin.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormMenu.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlano.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlano.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlanoProfessorAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlanoProfessorAluno.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroAluno.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroCategoria.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroEntradaProdutos.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroFormaPagamento.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroModalidade.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlano.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlanoProfessorAluno.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProduto.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProfessor.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroUsuario.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteAluno.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteCategoria.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteFormaPagamento.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteModalidade.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlano.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlanoProfessorAluno.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProduto.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProfessor.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteUsuario.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormLogin.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormMenu.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroAluno.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroCategoria.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroEntradaProdutos.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroFormaPagamento.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroModalidade.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlano.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlanoProfessorAluno.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProduto.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProfessor.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroUsuario.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteAluno.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteCategoria.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteFormaPagamento.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteModalidade.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlano.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlanoProfessorAluno.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProduto.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProfessor.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteUsuario.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormLogin.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormMenu.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroSaidaProdutos.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroCategoria.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroEntradaProdutos.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroFormaPagamento.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroModalidade.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlano.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroPlanoProfessorAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProduto.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroProfessor.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroSaidaProdutos.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormCadastroUsuario.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteCategoria.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteFormaPagamento.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteModalidade.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlano.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeletePlanoProfessorAluno.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProduto.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteProfessor.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormEditDeleteUsuario.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormLogin.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.FormMenu.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\PresentationLayer\obj\Debug\PresentationLayer.pdb

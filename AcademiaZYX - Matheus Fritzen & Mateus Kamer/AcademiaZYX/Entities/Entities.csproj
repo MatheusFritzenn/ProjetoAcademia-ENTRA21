@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1FBEDA31-DB11-410C-872F-7DF62955CD7E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entities</RootNamespace>
+    <AssemblyName>Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EntradaProduto.cs" />
+    <Compile Include="Interfaces\IEntradaProdutos.cs" />
+    <Compile Include="Interfaces\IPlano.cs" />
+    <Compile Include="Interfaces\IPlanoProfessorAluno.cs" />
+    <Compile Include="Interfaces\ISaidaProdutos.cs" />
+    <Compile Include="ItemSaida.cs" />
+    <Compile Include="ItemEntrada.cs" />
+    <Compile Include="Plano.cs" />
+    <Compile Include="PlanoProfessorAluno.cs" />
+    <Compile Include="SaidaProduto.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="Aluno.cs" />
+    <Compile Include="Categoria.cs" />
+    <Compile Include="Enum\Papel.cs" />
+    <Compile Include="FormaPagamento.cs" />
+    <Compile Include="Interfaces\IUsuario.cs" />
+    <Compile Include="Interfaces\IAluno.cs" />
+    <Compile Include="Interfaces\ICategoria.cs" />
+    <Compile Include="Interfaces\IFormaPagamento.cs" />
+    <Compile Include="Interfaces\IModalidade.cs" />
+    <Compile Include="Interfaces\IProduto.cs" />
+    <Compile Include="Modalidade.cs" />
+    <Compile Include="Produto.cs" />
+    <Compile Include="Professor.cs" />
+    <Compile Include="Interfaces\IProfessor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModel\EntradaProdutoQueryViewModel.cs" />
+    <Compile Include="ViewModel\PlanoProfessorAluno.cs" />
+    <Compile Include="ViewModel\PlanoQueryViewModel.cs" />
+    <Compile Include="ViewModel\ProdutoQueryViewModel.cs" />
+    <Compile Include="ViewModel\ProfessorQueryViewModel.cs" />
+    <Compile Include="ViewModel\SaidaProdutoQueryViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Shared\Shared.csproj">
+      <Project>{3AE9601E-C1E0-4ABD-9A16-A9D402536089}</Project>
+      <Name>Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,78 @@
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Apache NetBeans\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\Matheus\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\bin\Debug\Shared.pdb
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\AcademiaZYX\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
